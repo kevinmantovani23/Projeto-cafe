@@ -1,0 +1,1 @@
+Projeto de uma máquina de café que utiliza moedas.
